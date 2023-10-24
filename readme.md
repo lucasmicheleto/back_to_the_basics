@@ -16,4 +16,5 @@ In progress
 
 ```bash
 sudo apt install build-essential
+sh build.sh
 
